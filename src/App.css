@@ -1,0 +1,37 @@
+/*.container {
+	width: 1200px;
+	padding: 15px 0;
+	margin: 0 auto;
+}*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  margin: 0;
+}
+
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  min-height: calc(100vh - 110px);
+}
+.btn {
+  padding: 5px 15px;
+  color: #fff;
+  border: none;
+  background: #69c;
+  border-radius: 3px;
+}

@@ -1,0 +1,14 @@
+.post__item {
+    margin-bottom: 30px;
+    display: flex;
+
+}
+.post__item img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+.post__item p {
+    font-size: 14px;
+    margin-left: 15px;
+}

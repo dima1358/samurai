@@ -1,0 +1,19 @@
+.sidebar {
+	background: #9c9;
+	flex: 1;
+	padding: 30px
+}
+
+.sidebar .nav__list li {
+	margin-bottom: 10px;
+}
+
+.sidebar .nav__list a {
+	color: #fff;
+	text-decoration: none;
+	transition: .3s;
+}
+
+.sidebar .nav__list a:hover {
+	color: #69c;
+}
